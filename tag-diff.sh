@@ -1,6 +1,5 @@
 #!/bin/sh
 
-
 # begin CONFIGURATION
 SVN_REPO_ROOT="" # add a trailing slash please
 # end CONFIGURATION 
